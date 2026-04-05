@@ -23,3 +23,7 @@ This project demonstrates practical use of data analysis, structured programming
 - Real-time data integration
 - Dashboard visualization
 - Scalable data pipelines
+
+## How to Run
+1. Install dependencies: pip install pandas matplotlib
+2. Run: python main.py
